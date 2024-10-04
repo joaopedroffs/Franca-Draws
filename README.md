@@ -19,5 +19,17 @@ Para visualizar o site localmente, você precisará de:
 - Não é necessário instalar servidores ou ferramentas adicionais, pois o projeto utiliza apenas HTML e CSS
 
 ## Como Executar o Projeto
-1. Clone o repositório
-2. Abra `index.html`
+
+Para visualizar o projeto siga as etapas abaixo:
+
+1. **Clone o Repositório**: Use o comando abaixo para clonar o repositório em sua máquina local.
+   ```bash
+   git clone https://github.com/joaopedroffs/franca-draws.git
+2. **Navegue até o Diretório do Projeto**: Acesse a pasta do projeto que você acabou de clonar.
+   ```bash
+   cd franca-draws
+3. **Abra o Arquivo HTML**: Abra o arquivo index.html em um navegador web moderno, como Google Chrome, Firefox ou Safari. Você pode fazer isso clicando duas vezes no arquivo ou arrastando-o para a janela do navegador.
+4. **Interaja com o Site**: Explore as funcionalidades do site.
+
+## Licença
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
